@@ -1,16 +1,34 @@
-## Hi there 👋
+Happy Birthday
 
-<!--
-**vishsanap/vishsanap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Happy Birthday animation design in CSS3, HTML5.
 
-Here are some ideas to get you started:
+URL: http://ayusharma.github.io/birthday/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
+
+# Setup
+
+## If you have python installed:
+```
+cd Birthday
+```
+
+&& 
+
+```
+python -m SimpleHTTPServer --port  8081
+```
+
+visit http://localhost:8081 in your browser.
+
+## If you have nodejs installed
+```
+npm install
+```
+&&
+
+```
+npm run server-node
+```
+visit http://localhost:8081 in your browser.
+
